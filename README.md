@@ -1,6 +1,6 @@
 # Healthcare  Dataset Analysis
 
-## bout the Dataset
+## About the Dataset
 This dataset contains personal and health-related information such as  sleep duration, sleep quality, physical activity, stress level, BMI and whether the person has a sleep disorder.  
 The goal is to explore these factors and identify what influences sleep quality and disorders.
 
