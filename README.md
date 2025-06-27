@@ -39,7 +39,10 @@ A detailed Power BI dashboard was created to display:
 - Sleep quality by age, gender, job, and more
 
 ##  Dashboard Preview
-![Dashboard](Dashboard 1.png)
+![Healthcare Dashboard](Dashboards/Dashboard 1.png)
+
+![Healthcare Dashboard](Dashboards/Dashboard 2.png)
+
 
 
 ##  Conclusion
